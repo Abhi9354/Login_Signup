@@ -1,0 +1,6 @@
+{
+    "login.success": "login successfully",
+    "login.failed": "login failed",
+    "register.success": "register successfully",
+    "register.failed": "register failed"
+}
